@@ -1,0 +1,13 @@
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.deps.json
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.runtimeconfig.json
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.runtimeconfig.dev.json
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.dll
+/Users/kylejensen/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.pdb
+/Users/kylejensen/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.csproj.CoreCompileInputs.cache
+/Users/kylejensen/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.AssemblyInfoInputs.cache
+/Users/kylejensen/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.AssemblyInfo.cs
+/Users/kylejensen/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.dll
+/Users/kylejensen/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.pdb
